@@ -4,11 +4,11 @@
 		"appversion" : 		{
 			"major" : 6,
 			"minor" : 1,
-			"revision" : 4,
+			"revision" : 3,
 			"architecture" : "x86"
 		}
 ,
-		"rect" : [ 786.0, 88.0, 427.0, 302.0 ],
+		"rect" : [ 248.0, 519.0, 427.0, 302.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -41,7 +41,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 4,
+							"revision" : 3,
 							"architecture" : "x86"
 						}
 ,
@@ -257,7 +257,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 4,
+							"revision" : 3,
 							"architecture" : "x86"
 						}
 ,
@@ -665,7 +665,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 4,
+							"revision" : 3,
 							"architecture" : "x86"
 						}
 ,
@@ -1053,7 +1053,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 4,
+											"revision" : 3,
 											"architecture" : "x86"
 										}
 ,
@@ -1646,7 +1646,7 @@
 										"appversion" : 										{
 											"major" : 6,
 											"minor" : 1,
-											"revision" : 4,
+											"revision" : 3,
 											"architecture" : "x86"
 										}
 ,
@@ -1680,7 +1680,7 @@
 													"numoutlets" : 1,
 													"outlettype" : [ "" ],
 													"patching_rect" : [ 97.0, 130.0, 50.0, 31.0 ],
-													"text" : "-1.498533"
+													"text" : "-0.425259"
 												}
 
 											}
@@ -2743,7 +2743,7 @@
 						"appversion" : 						{
 							"major" : 6,
 							"minor" : 1,
-							"revision" : 4,
+							"revision" : 3,
 							"architecture" : "x86"
 						}
 ,
@@ -3143,21 +3143,21 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "visu.model.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/opengl-UI/max-package/patchers",
+				"bootpath" : "/Volumes/data/RENAUD/GITs/opengl-UI/max-package/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "menu.model.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/opengl-UI/max-package/patchers",
+				"bootpath" : "/Volumes/data/RENAUD/GITs/opengl-UI/max-package/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "isinrange.maxpat",
-				"bootpath" : "/Users/reno/Documents/GITs/opengl-UI/max-package/patchers",
+				"bootpath" : "/Volumes/data/RENAUD/GITs/opengl-UI/max-package/patchers",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1

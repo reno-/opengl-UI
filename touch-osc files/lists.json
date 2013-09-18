@@ -1,0 +1,30 @@
+{
+  "layout": {
+    "-orientation": "vertical",
+    "tabpage": [
+      {
+        "-name": "uno",
+        "control": [
+          {
+            "-name": "uno--uno"
+          },
+          {
+            "-name": "uno--dos"
+          }
+        ]
+      },
+      {
+        "-name": "dos",
+        "control": [
+          {
+            "-name": "dos--uno"
+          },
+          {
+            "-name": "dos--dos",
+
+          }
+        ]
+      },
+    ]
+  }
+}
